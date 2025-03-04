@@ -3,8 +3,8 @@
 💻 Currently expanding my knowledge in IT with a focus on system administration and IT troubleshooting<br>
 🎓 Passionate about continuous learning as I build my skills in the tech industry<br>
 🌱 Eager to explore various facets of IT and deepen my expertise in the field<br>
-🎓 Currently studying: CompTIA IT Fundamentals (ITF+), CompTIA A+ certification, Google IT Support Certificate<br>
-🚀 Future Goals: Seeking to secure a help desk position or other entry level roles in tech
+🎓 Currently studying: **CompTIA IT Fundamentals (ITF+)**, **CompTIA A+ certification**, **Google IT Support Certificate**<br>
+🚀 Future Goals: Seeking to secure a **help desk** or **IT support** role to gain real-world experience while working towards additional certifications such as **CompTIA Network+**, **CompTIA Security+** and **Comptia Linux+**
 
 
 # 💻 Tech Stack:
