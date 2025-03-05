@@ -1,10 +1,12 @@
-### **👋Hi, I'm Leo Sirgado!**
+# 👋 Hi, I'm Leo Sirgado!
 
-💻 Currently expanding my knowledge in IT with a focus on system administration and IT troubleshooting<br>
-🎓 Passionate about continuous learning as I build my skills in the tech industry<br>
-🌱 Eager to explore various facets of IT and deepen my expertise in the field<br>
-🎓 Currently studying: **CompTIA IT Fundamentals (ITF+)**, **CompTIA A+ certification**, **Google IT Support Certificate**<br>
-🚀 Future Goals: Seeking to secure a **help desk** or **IT support** role to gain real-world experience while working towards additional certifications such as **CompTIA Network+**, **CompTIA Security+** and **Comptia Linux+**
+- 💻 Currently learning more about IT, with a focus on system administration and troubleshooting.<br/>
+- 🧠 Enjoy constantly improving my skills in technology and expanding my knowledge<br/>
+- 🌱 Excited to explore different areas of IT and gain deeper expertise in the field<br/>
+- 🎓 Currently studying for the **CompTIA IT Fundamentals (ITF+)**, **CompTIA A+** certification, and **Google IT Support Certificate**<br/>
+- 🖥️ Seeking a help desk or IT support role to gain hands-on experience<br/>
+- 🚀 Aiming to pursue additional certifications such as **CompTIA Network+**, **CompTIA Security+**, and **CompTIA Linux+**<br/>
+
 
 
 # 💻 Tech Stack:
