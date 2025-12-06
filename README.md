@@ -3,7 +3,7 @@
 - 💻 Currently learning more about IT, with a focus on system administration and troubleshooting.<br/>
 - 🧠 Enjoy constantly improving my skills in technology and expanding my knowledge<br/>
 - 🌱 Excited to explore different areas of IT and gain deeper expertise in the field<br/>
-- 🎓 Currently studying for the **CompTIA IT Fundamentals (ITF+)**, **CompTIA A+** certification, and **Google IT Support Certificate**<br/>
+- 🎓 Currently studying for the ***Google IT Support Certificate** and **CompTIA A+** certification<br/>
 - 🖥️ Seeking a help desk or IT support role to gain hands-on experience<br/>
 - 🚀 Aiming to pursue additional certifications such as **CompTIA Network+**, **CompTIA Security+**, and **CompTIA Linux+**<br/>
 
