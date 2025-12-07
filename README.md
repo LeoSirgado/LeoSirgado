@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leo Sirgado!
+# 👋 Hi, I'm Leonardo Sirgado!
 
 - 💻 Currently learning more about IT, with a focus on system administration and troubleshooting.<br/>
 - 🧠 Enjoy constantly improving my skills in technology and expanding my knowledge<br/>
